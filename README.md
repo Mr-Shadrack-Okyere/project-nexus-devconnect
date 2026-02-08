@@ -1,38 +1,16 @@
-🚀 DevConnect – Developer Collaboration Platform
-📖 Description
+# React + Vite
 
-DevConnect is a modern frontend web application that enables developers to showcase their projects, connect with other developers, and explore collaboration opportunities. This project demonstrates professional frontend architecture, API integration, and responsive UI design.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-🎯 Objectives
+Currently, two official plugins are available:
 
-Build a scalable and responsive frontend application
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Integrate with REST APIs for dynamic data
+## React Compiler
 
-Implement reusable UI components
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-Follow professional Git workflow and project structure
+## Expanding the ESLint configuration
 
-🛠 Tech Stack
-
-React.js
-
-React Router
-
-Tailwind CSS
-
-Axios / Fetch API
-
-Context API (State Management)
-
-✨ Core Features
-
-Developer profile pages
-
-Project showcase feed
-
-Like & comment UI
-
-Filter projects by tech stack
-
-Responsive layout
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
