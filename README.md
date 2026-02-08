@@ -1,11 +1,11 @@
-.
-
+---
 🚀 Project Nexus – DevConnect
 
 DevConnect is a developer collaboration platform designed to help programmers connect, share ideas, and work together on projects. It provides a space where developers can showcase their skills, discover collaborators, and grow their network.
 
 This project is being built as part of a hands-on software development journey, focusing on modern frontend tools and scalable backend integration.
 
+---
 🌟 Project Goals
 
 DevConnect aims to:
