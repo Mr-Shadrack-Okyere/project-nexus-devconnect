@@ -1,13 +1,13 @@
 ---
 🚀 Project Nexus – DevConnect
-
+---
 DevConnect is a developer collaboration platform designed to help programmers connect, share ideas, and work together on projects. It provides a space where developers can showcase their skills, discover collaborators, and grow their network.
 
 This project is being built as part of a hands-on software development journey, focusing on modern frontend tools and scalable backend integration.
 
 ---
 🌟 Project Goals
-
+---
 DevConnect aims to:
 
 Help developers create and manage their profiles
@@ -18,7 +18,9 @@ Provide a foundation for collaboration on future tech projects
 
 Practice building a full-stack application using modern tools
 
+---
 🛠 Tech Stack
+---
 Frontend
 
 React (with Vite)
@@ -43,8 +45,9 @@ RESTful APIs
 
 🤝 Connect and collaborate with other users
 
+---
 📁 Project showcase section
-
+---
 🔐 Authentication system (login/register)
 
 📂 Project Structure (Frontend)
@@ -61,8 +64,9 @@ project-nexus-devconnect/
 ├── package.json
 └── README.md
 
+---
 ⚙️ Installation & Setup
-
+---
 To run the project locally:
 
 1️⃣ Clone the repository
@@ -80,13 +84,15 @@ The app will run at:
 
 http://localhost:5173
 
+---
 🧪 Development Status
-
+---
 🚧 This project is actively under development.
 New features and backend integration will be added progressively.
 
+---
 🤝 Contributing
-
+---
 Contributions, ideas, and suggestions are welcome!
 
 Fork the repository
@@ -96,7 +102,7 @@ Create a new branch
 Make your changes
 
 Submit a pull request
-
+---
 📜 License
-
+---
 This project is for educational and development purposes.
